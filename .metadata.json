@@ -2,5 +2,9 @@
   {
     "package": "aimsir17",
     "oncran": true
+  },
+  {
+    "package": "pysd2r",
+    "oncran": true
   }
 ]

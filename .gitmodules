@@ -8,3 +8,8 @@
 	url = https://github.com/jimduggan/aimsir17
 	shallow = true
 	registered = true
+[submodule "pysd2r"]
+	path = pysd2r
+	url = https://github.com/jimduggan/pysd2r
+	shallow = true
+	registered = true
